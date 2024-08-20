@@ -4,3 +4,9 @@
     padding: 10px;
     font-family: Verdana;
 }
+
+img {
+    border: solid;
+    border-radius: 25px;
+    padding: 0px;
+}
