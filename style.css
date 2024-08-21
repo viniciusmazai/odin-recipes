@@ -8,3 +8,7 @@ img {
     border: solid;
     border-radius: 25px;
 }
+
+li {
+    display: block;
+}
